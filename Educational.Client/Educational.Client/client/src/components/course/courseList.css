@@ -1,0 +1,13 @@
+.CourseListHeader{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.CourseListCourses{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}

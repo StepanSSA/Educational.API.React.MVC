@@ -1,0 +1,95 @@
+.adminPage{
+    margin: 5rem;
+    margin-top: 2rem;
+    background-color: #f4f5fa;
+    border: 1px solid #f4f5fa;
+    border-radius: 1rem;
+    padding: 1rem;
+    padding-top: 0rem;
+    text-align: center;
+}
+
+.adminFucnBtnsBlock{
+    position: relative;
+    display: block;
+    text-align: left;
+    padding-top: 2rem;
+}
+
+.adminFucnBtnsBlock li{
+    text-decoration: none;
+    list-style-type: none;
+    width: 15rem;
+}
+
+.adminFucnBtn{
+    padding: 0.2rem;
+    position: relative;
+    display: block;
+    background-color: #f4f5fa;
+    border: none;
+    font-size: large;
+    text-align: left;
+    width: 15rem;
+    color: #8f93a3;
+    text-decoration: none;
+}
+
+.adminFucnBtn:hover{
+    color: black;
+}
+
+.adminFuncWindow{
+    position: relative;
+    display: block;
+    text-align: left;
+    padding-top: 2rem;
+}
+
+
+@media screen and (max-width: 700px) {
+    
+    .adminPage{
+        width: 100%;
+        margin-left: 0px;
+    }
+}
+
+.CourseTableBtnCreate{
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.CourseTableBtnCreate:hover{
+    color: rgb(10, 162, 56);
+}
+
+.CourseTableBtnDel{
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.CourseTableBtnDel:hover{
+    color: red;
+}
+
+.CourseTableBtnEdit{
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.CourseTableBtnEdit:hover{
+    color: rgb(214, 214, 72);
+}
+
+
+

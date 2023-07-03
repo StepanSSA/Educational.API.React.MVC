@@ -1,0 +1,70 @@
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.deps.json
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\refint\Educational.Domein.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\ref\Educational.Domein.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.runtimeconfig.json
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.runtimeconfig.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\refint\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Domein\obj\Debug\net6.0\ref\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.runtimeconfig.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\refint\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Domein\obj\Debug\net6.0\ref\Educational.Domein.dll
+E:\д\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.deps.json
+E:\д\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.runtimeconfig.json
+E:\д\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.dll
+E:\д\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.pdb
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.AssemblyReference.cache
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.GeneratedMSBuildEditorConfig.editorconfig
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfoInputs.cache
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfo.cs
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.CoreCompileInputs.cache
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.dll
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\refint\Educational.Domein.dll
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.pdb
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.genruntimeconfig.cache
+E:\д\Educational.Backend\Educational.Domein\obj\Debug\net6.0\ref\Educational.Domein.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.deps.json
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.runtimeconfig.json
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.AssemblyInfo.cs
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\refint\Educational.Domein.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\Educational.Domein.genruntimeconfig.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Domein\obj\Debug\net6.0\ref\Educational.Domein.dll

@@ -1,0 +1,140 @@
+.CoursePage{
+    display: block;
+    position: relative;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    text-align: center;
+}
+
+.CourseNameBlock{
+    position: relative;
+    background-color: #f4f5fa;
+    border: 1px solid #f4f5fa;
+    border-radius: 1rem;
+    width: 50rem;
+    display: inline-block;
+    height: fit-content;
+    align-content: center;
+    text-align: center;
+    margin-right: 2rem;
+    padding: 1rem;
+}
+
+.CourseDescriptionBlock{
+    text-align: left;
+    font-size: large;
+}
+
+.CoursePriceBlock{
+    position: relative;
+    background-color: #f4f5fa;
+    border: 1px solid #f4f5fa;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    width: fit-content;
+    padding: 1rem;
+    padding-top: 0rem;
+    display: inline-block;
+    height: fit-content;
+    align-content: center;
+    text-align: left;
+}
+
+.Price{
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+.BuyBtn{
+    text-align: center;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 1rem;
+    border: 1px solid #8D46F6;
+    background-color: #8D46F6;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    color: #fff;
+    cursor: pointer;
+    transition: all ease .2s;
+    text-decoration: none;
+}
+
+.BuyBtn:hover{
+    border-radius: 1rem;
+    border: 1px solid #7E40DA;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    transform: scale(1.05);
+    color: #7E40DA;
+}
+
+.TeacherBtn{
+    text-align: center;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 1rem;
+    border: 1px solid #8D46F6;
+    background-color: #8D46F6;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1vw;
+    transition: all ease .2s;
+    text-decoration: none;
+}
+
+.TeacherBtn:hover{
+    border-radius: 1rem;
+    border: 1px solid #7E40DA;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #7E40DA;
+}
+
+@media screen and (max-width: 1300px) {
+    
+    .CoursePriceBlock{
+        width: 80%;
+        text-align: center;
+        font-size: large;
+    }
+    .CourseNameBlock{
+        width: 80%;
+        margin-right: 0rem
+    }
+    .CoursePriceBlock li{
+        display: inline-block;
+        padding-right: 1.5rem;
+    }
+    
+}
+
+@media screen and (max-width: 800px){
+    .CoursePage{
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+    }
+    .CoursePriceBlock{
+        width: 100%;
+    }
+    .CourseNameBlock{
+        width: 100%;
+    }
+    .TeacherBtn{
+        font-size: 2.5vw;
+    }
+}

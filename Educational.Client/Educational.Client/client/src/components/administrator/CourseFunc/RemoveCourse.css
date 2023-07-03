@@ -1,0 +1,10 @@
+.CourseInfo{
+    display: block;
+    position: relative;
+    border: 1px solid #f4f5fa;
+    border-radius: 1rem;
+    background-color: #f4f5fa;
+    width: fit-content;
+    height: auto;
+    text-align: center;
+}

@@ -1,0 +1,78 @@
+
+.main{
+    width: 100%;
+    background-color: #f4f5fa;
+    color: black;
+    padding: 2rem;
+    margin-top: 5rem;
+}
+
+.adsText{
+    justify-items: start;
+    align-items: start;
+    font-size: 150%;
+    align-self: start;
+    max-width: 70%;
+}
+
+.ulList{
+    list-style-type: none;
+}
+
+.ulTitle{
+    font-size: 150%;
+}
+
+.ulText{
+    font-size: 120%;
+}
+
+
+@media screen and (max-width: 1000px){
+    .adsText{
+        max-width: 100%;
+    }
+}
+
+
+.CourseAds{
+    background-color: #725ef2;
+    width: 100%;
+    height: fit-content;
+    display: block;
+    color: white;
+    padding: auto;
+    margin-top: 5rem;
+}
+
+.CourseAdscontent{
+    padding: 2rem;
+}
+
+.CourseAdsTitle{
+    font-size: 300%;
+    padding-bottom: 2rem;
+}
+
+.TextBlock{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    position: relative;
+    display: block;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 2rem;
+    max-height: 200px;
+    max-width: 400px;
+    color: black;
+    padding: 1rem;
+}
+
+.PTitle{
+    font-size: 130%;
+}
+
+.PText{
+    font-size: 110%;
+}

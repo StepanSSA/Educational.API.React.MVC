@@ -1,0 +1,28 @@
+.footer{
+    display: block;
+    bottom: 0;
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(36, 39, 39);
+    padding: 2rem;
+    color: #8f93a3;
+}
+
+.list{
+    list-style-type: none;
+    display: block;
+}
+
+.listItem{
+    padding: 5px;
+    display: block;
+}
+
+.FooterBtn{
+    text-decoration: none;
+    color: #8f93a3;
+}
+
+.FooterBtn:hover{
+    color: #a38fa2;
+}

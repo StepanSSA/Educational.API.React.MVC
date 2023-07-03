@@ -1,0 +1,43 @@
+﻿@model RegisterViewModel
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<form asp-controller="Auth" asp-action="Register" method="post">
+    <input type="hidden" asp-for="ReturnUrl" />
+    <div style="max-width: 50%; margin: auto">
+        <h2>Регистрация</h2>
+        <div class="mb-3">
+            <label asp-for="Firstname" for="formGroupExampleInput" class="form-label">Имя</label>
+            <input asp-for="Firstname" type="text" class="form-control" id="formGroupExampleInput">
+            <span asp-validation-for="Firstname"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="LastName" for="formGroupExampleInput" class="form-label">Фамилия</label>
+            <input asp-for="LastName" type="text" class="form-control" id="formGroupExampleInput">
+            <span asp-validation-for="LastName"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" for="formGroupExampleInput" class="form-label">Почта</label>
+            <input asp-for="Email" type="email" class="form-control" id="formGroupExampleInput">
+            <span asp-validation-for="Email"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="BirthDate" for="formGroupExampleInput" class="form-label">Дата рождения</label>
+            <input asp-for="BirthDate" type="date" class="form-control" id="formGroupExampleInput">
+            <span asp-validation-for="BirthDate"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" for="formGroupExampleInput" class="form-label">Пароль</label>
+            <input asp-for="Password" type="password" class="form-control" id="formGroupExampleInput">
+            <span asp-validation-for="Password"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ConfimPassword" for="formGroupExampleInput" class="form-label">Пароль</label>
+            <input asp-for="ConfimPassword" type="password" class="form-control" id="formGroupExampleInput">
+            <span asp-validation-for="ConfimPassword"></span>
+        </div>
+        <div>
+            <button class="btn btn-primary" type="submit">Зарегистрироваться</button>
+        </div>
+        <a asp-controller="Auth" asp-action="Login" asp-route-returnUrl="@Model.ReturnUrl">Авторизация</a>
+    </div>
+</form>

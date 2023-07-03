@@ -1,0 +1,102 @@
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.deps.json
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.runtimeconfig.json
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CopyComplete
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\refint\Educational.Persistence.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.genruntimeconfig.cache
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\ref\Educational.Persistence.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\source\repos\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\appsettings.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Identity.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Identity.runtimeconfig.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Identity.exe
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.runtimeconfig.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Identity.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Identity.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CopyComplete
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\refint\Educational.Persistence.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\ref\Educational.Persistence.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.runtimeconfig.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CopyComplete
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\refint\Educational.Persistence.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\ref\Educational.Persistence.dll
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.deps.json
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.runtimeconfig.json
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.dll
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.pdb
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.dll
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.dll
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.pdb
+E:\д\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.pdb
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.AssemblyReference.cache
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfoInputs.cache
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfo.cs
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CoreCompileInputs.cache
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CopyComplete
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.dll
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\refint\Educational.Persistence.dll
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.pdb
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.genruntimeconfig.cache
+E:\д\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\ref\Educational.Persistence.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.deps.json
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.runtimeconfig.json
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.AssemblyInfo.cs
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.csproj.CopyComplete
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\refint\Educational.Persistence.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\Educational.Persistence.genruntimeconfig.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Persistence\obj\Debug\net6.0\ref\Educational.Persistence.dll

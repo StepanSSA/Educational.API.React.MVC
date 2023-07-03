@@ -1,0 +1,38 @@
+.CourseItemBackground{
+    position: relative;
+    background-color: #f4f5fa;
+    display: block;
+    max-width: 17rem;
+    height: fit-content;
+    border: 1px solid #f4f5fa;
+    border-radius: 1rem;
+    padding: 15px;
+    align-content: center;
+    text-align: center;
+}
+
+.ImgContainer{
+    position: relative;
+}
+
+.ImgContainer::after{
+    display: block;
+    content: '';
+    padding-bottom: calc(15rem/2);
+}
+
+.ViewImgCourse{
+    position: absolute;
+    border-radius: 1rem;
+    display: block;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.TextContainer{
+    margin-top: 10px;
+    max-height: 300px;
+    overflow:hidden;
+}

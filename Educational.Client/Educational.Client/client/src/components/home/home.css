@@ -1,0 +1,139 @@
+div .header{
+    display: block;
+    text-align: center;
+    align-content: center;
+    margin: 10px;
+    margin-top: 0px;
+    min-width: 8rem;
+}
+
+div .CourseView{
+    position: relative;
+    background-color: #f4f5fa;
+    display: block;
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid #f4f5fa;
+    border-radius: 1rem;
+    margin: 40px;
+    padding: 15px;
+    align-content: center;
+    text-align: center;
+}
+
+.ViewBtn{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 1rem;
+    border: 1px solid black;
+    background-color: #f4f5fa;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    color: #5e5f69;
+    cursor: pointer;
+    transition: all ease .2s;
+    text-decoration: none;
+}
+
+.ViewBtn:hover{
+    border-radius: 1rem;
+    border: 1px solid black;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    transform: scale(1.05);
+    color: black;
+}
+
+.ViewImg{
+    position: absolute;
+    border-radius: 1rem;
+    display: block;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.firstSection{
+    display: flex;
+    flex-direction: row;
+}
+
+.firstSection_text_block{
+    margin: 40px;
+    display: block;
+    flex-direction: column;
+    max-width: 780;
+    z-index: 1;
+}
+
+.firstSection_text_block span:first-child{
+    animation-delay: 0s;
+}
+.firstSection_text_block span:nth-child(2){
+    animation-delay: 1.5s;
+}
+.firstSection_text_block span:nth-child(3){
+    animation-delay: 3s;
+}
+
+span{
+    animation-duration: 4.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    display: block;
+    animation-name: light-title-animation;
+    font-size: larger;
+    color: #5e5f69;
+}
+
+@media screen and (max-width: 1000px){
+    .firstSection{
+        flex-wrap: wrap;
+    }
+}
+
+@keyframes light-title-animation{
+    0%{
+        color: #b7b9c8;
+    }
+    15%{
+        color: #000;
+    }
+    33%{
+        color: #b7b9c8;
+    }
+    100%{
+        color: #b7b9c8;
+    }
+
+}
+
+.firstSection_text_block p{
+    color: #000;
+    font-size: 140%;
+}
+
+.CourseView p{
+    font-size: medium;
+    max-width: 15rem;
+    min-width: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ImgBox{
+    position: relative;
+}
+
+.ImgBox::after{
+    display: block;
+    content: '';
+    padding-bottom: 20rem;
+    padding-left: 15rem;
+}

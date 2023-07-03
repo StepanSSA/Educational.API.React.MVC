@@ -1,0 +1,92 @@
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.deps.json
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CopyComplete
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\refint\Educational.FileSystem.dll
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\source\repos\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\ref\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Identity.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Identity.runtimeconfig.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Identity.exe
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Identity.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Identity.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CopyComplete
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\refint\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\ref\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.deps.json
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CopyComplete
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\refint\Educational.FileSystem.dll
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\OneDrive\Рабочий стол\Учёба\4 курс\Educational.Backend\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\ref\Educational.FileSystem.dll
+E:\д\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.deps.json
+E:\д\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.dll
+E:\д\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.pdb
+E:\д\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.dll
+E:\д\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.dll
+E:\д\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.pdb
+E:\д\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.pdb
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.AssemblyReference.cache
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfoInputs.cache
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfo.cs
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CoreCompileInputs.cache
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CopyComplete
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.dll
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\refint\Educational.FileSystem.dll
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.pdb
+E:\д\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\ref\Educational.FileSystem.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.deps.json
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Application.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\bin\Debug\net6.0\Educational.Domein.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.AssemblyInfo.cs
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.csproj.CopyComplete
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\refint\Educational.FileSystem.dll
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\Educational.FileSystem.pdb
+C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Core\Educational.FileSystem\obj\Debug\net6.0\ref\Educational.FileSystem.dll

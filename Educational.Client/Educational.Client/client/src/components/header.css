@@ -1,0 +1,94 @@
+.Header{
+    background-color: #fff;
+    width: 100%;
+    height: 40px;
+    position: relative;
+    align-items: center;
+    padding-bottom: 30px;
+    z-index: 2;
+}
+
+nav{
+    background: #fff; 
+    text-align: center;
+}
+nav > ul {
+   padding: 0;
+}
+nav li{
+    display: inline-block;
+    vertical-align: top;
+}
+nav a{
+    padding: 5px 10px;
+    font-weight: bold;
+    margin: 0px 10px;
+    border: none;
+    cursor: pointer;
+    color: #8f93a3;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    transition: all ease .2s;
+    text-decoration-line: none;
+    background: none;
+}
+
+.Header button{
+    padding: 5px 10px;
+    font-weight: bold;
+    margin: 0px 10px;
+    border: none;
+    cursor: pointer;
+    color: #8f93a3;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    transition: all ease .2s;
+    text-decoration-line: none;
+    background: none;
+}
+
+.Header button:hover{
+    transition: .2s;
+    color: black;
+}
+
+nav a:hover{
+    transition: .2s;
+    color: black;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+nav label {    
+    margin-left: auto;
+    margin-right: auto;
+    display: none;   
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    color: #8f93a3;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    transition: all ease .2s
+}
+nav label:hover{
+    transition: .2s;
+    color: black;
+}
+
+
+@media screen and (max-width: 600px) {
+    
+    nav label{
+         display: inline-block;
+    }
+    nav > ul {
+        display: none;
+    }
+    input[type="checkbox"]:checked ~ label + ul {
+        display: block;
+        max-width: 90%;
+    }
+    
+}
