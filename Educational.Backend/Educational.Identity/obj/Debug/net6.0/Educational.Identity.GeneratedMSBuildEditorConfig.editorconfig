@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Educational.Identity
 build_property.RootNamespace = Educational.Identity
-build_property.ProjectDir = C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Identity\
+build_property.ProjectDir = C:\Users\stefa\Desktop\Дипломный проект\Educational\EducationalPlatform\Educational.Backend\Educational.Identity\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\stefa\Desktop\Дипломный проект\Educational.Backend\Educational.Identity
+build_property.MSBuildProjectDirectory = C:\Users\stefa\Desktop\Дипломный проект\Educational\EducationalPlatform\Educational.Backend\Educational.Identity
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/stefa/Desktop/Дипломный проект/Educational.Backend/Educational.Identity/Views/Auth/Login.cshtml]
+[C:/Users/stefa/Desktop/Дипломный проект/Educational/EducationalPlatform/Educational.Backend/Educational.Identity/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stefa/Desktop/Дипломный проект/Educational.Backend/Educational.Identity/Views/Auth/Register.cshtml]
+[C:/Users/stefa/Desktop/Дипломный проект/Educational/EducationalPlatform/Educational.Backend/Educational.Identity/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stefa/Desktop/Дипломный проект/Educational.Backend/Educational.Identity/Views/Auth/RegisterTeacher.cshtml]
+[C:/Users/stefa/Desktop/Дипломный проект/Educational/EducationalPlatform/Educational.Backend/Educational.Identity/Views/Auth/RegisterTeacher.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RlclRlYWNoZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stefa/Desktop/Дипломный проект/Educational.Backend/Educational.Identity/Views/Auth/SucceededRegistration.cshtml]
+[C:/Users/stefa/Desktop/Дипломный проект/Educational/EducationalPlatform/Educational.Backend/Educational.Identity/Views/Auth/SucceededRegistration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTdWNjZWVkZWRSZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stefa/Desktop/Дипломный проект/Educational.Backend/Educational.Identity/Views/Home/Error.cshtml]
+[C:/Users/stefa/Desktop/Дипломный проект/Educational/EducationalPlatform/Educational.Backend/Educational.Identity/Views/Home/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stefa/Desktop/Дипломный проект/Educational.Backend/Educational.Identity/Views/_ViewImports.cshtml]
+[C:/Users/stefa/Desktop/Дипломный проект/Educational/EducationalPlatform/Educational.Backend/Educational.Identity/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

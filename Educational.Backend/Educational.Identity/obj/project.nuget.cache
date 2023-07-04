@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKxRyCM66kRV6nVdHBz1sK/JFxuI27pyLFg2wm5dvvfkqWs/yT6BEq3ES/SbBfnhqRmufqIg2PWhDHFJZ46zLA==",
+  "dgSpecHash": "JVcFTKM0i50qVy0g5KDkKMePIyxdDLmDTfsNpjGBlgqXThERktvwia8JMoHnBL7Q4qcci8U+YWndEaVlNsCQNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Identity\\Educational.Identity.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Identity\\Educational.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
