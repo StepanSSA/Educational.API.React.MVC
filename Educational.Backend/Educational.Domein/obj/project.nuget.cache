@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "643zLcVW/+UWfXK+iojMzAUnDHTVfEDxE0joRY+7vOrRjMPDgv3b+2hgBCGU5uQullS6yf4smXTOw5S3hSQTdA==",
+  "dgSpecHash": "LVSZJofLmnm1ZO7vvdOPC4VHEEmON13eJHBr1uIcJ65NhM/hj8KDCRnX/XesWHXni3Z/FJQkeinrc9abKq8GBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Domein\\Educational.Domein.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Domein\\Educational.Domein.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.15\\microsoft.aspnetcore.cryptography.internal.6.0.15.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K5J3RJZLMj1Du+il6hpiGf2FZAmTSyyu+llQjoy4rsNFZz0OoTuqWEe529Zc4vzKhpwwiPj7ssnMZH5YtTm7NQ==",
+  "dgSpecHash": "vIGwn0XwK1Cx4EfQLlD5W684HJIjxh0JUojui9lp9vQ7Rqcsr2aB0escRVUW/UW/W1StfCm6bj3EgWDvbP52MA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.WebApi\\Educational.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.WebApi\\Educational.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

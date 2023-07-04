@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7oy0QxjNeQKH+NfSCdY98mzW7weLEkhK5lC+RldmdR0imLkcd1xZ142W0JS+F56UvQU2mM140G/nm0oVaCwM1Q==",
+  "dgSpecHash": "xyU/BnEJsqRoj7ReKPkW+FQbjJdPfjqqvcJZm2RhHJaUGInkuptY4aTldHshVdXAQduhRzOLEX/Fgzl9GGkj8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Application\\Educational.Application.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Application\\Educational.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",

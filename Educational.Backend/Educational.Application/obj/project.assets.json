@@ -1113,11 +1113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Application\\Educational.Application.csproj",
+      "projectUniqueName": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Application\\Educational.Application.csproj",
       "projectName": "Educational.Application",
-      "projectPath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Application\\Educational.Application.csproj",
+      "projectPath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Application\\Educational.Application.csproj",
       "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Application\\obj\\",
+      "outputPath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1138,8 +1138,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Domein\\Educational.Domein.csproj": {
-              "projectPath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Domein\\Educational.Domein.csproj"
+            "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Domein\\Educational.Domein.csproj": {
+              "projectPath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Domein\\Educational.Domein.csproj"
             }
           }
         }

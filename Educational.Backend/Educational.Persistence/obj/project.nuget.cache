@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IsYVsUMKcvz2Ksm1Efaz3VHjPLShj7cXOxEfJzAy8dxCxht6ZLZVCegsuEDVTLN4gS9uvqfAQPTEaCMwQCUXJA==",
+  "dgSpecHash": "J+t6UEDpExI0AcUrnXqHqfysGqAlipdleggtseuLgYHcMgJN/iMnwdBN6HbuqplaqAmP408H8XOGC8nQfL2IgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational\\EducationalPlatform\\Educational.Backend\\Educational.Persistence\\Educational.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Дипломный проект\\Educational.Backend\\Educational.Persistence\\Educational.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
